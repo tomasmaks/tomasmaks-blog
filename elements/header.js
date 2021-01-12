@@ -7,7 +7,7 @@ document.write(`
 
 <img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/profile.png" alt="image" >			
 
-<div class="bio mb-3">I'm generalist. I have some knowledge in programming, writing, startup strategies, e-commerce and I love reading about tech, philosophy, psychology.
+<div class="bio mb-3">Hello, my name is Tomas Maksimavicius. I think about myself as generalist. I have some knowledge in programming, writing, startup strategies, e-commerce and I love reading about tech, philosophy and psychology.
 
 <br>
 <br>
