@@ -31,7 +31,7 @@ function isAlreadySubmitted() {
 function submitForm() {
     console.log(isAlreadySubmitted())
     if (isAlreadySubmitted()) {
-        alert("You already submitted 2 different emails, please send me DM to become friend.");
+        alert("You already submitted 2 different emails, please send me DM to become a friend.");
         return;
     }
 

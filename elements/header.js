@@ -1,5 +1,7 @@
 
 
+// <a href="about.html">Find out more about me</a>
+
 document.write(`
 
 
@@ -14,7 +16,7 @@ document.write(`
 My goal of the next 5 years is to build products that help small businesses and freelancers. Want to join? Send me DM.
 <br>
 <br>
-<a href="about.html">Find out more about me</a></div>
+</div>
 
 <!--//bio-->
 <ul class="social-list list-inline py-3 mx-auto">

@@ -22,9 +22,7 @@ switch(navigation) {
 //     <a class="nav-link" href="blog-post.html"><i class="fas fa-bookmark fa-fw mr-2"></i>Blog Post</a>
 // </li>
 
-/* <li class="nav-item ` + indexActive + `">
-    <a class="nav-link" href="index.html"><i class="fas fa-home fa-fw mr-2"></i>Blog Home <span class="sr-only">(current)</span></a>
-</li>
+/* 
 
 
 
@@ -36,7 +34,9 @@ document.write(`
 
 <ul class="navbar-nav flex-column text-left">
 
-
+<li class="nav-item ` + indexActive + `">
+    <a class="nav-link" href="index.html"><i class="fas fa-home fa-fw mr-2"></i>Home Page <span class="sr-only">(current)</span></a>
+</li>
 
 </ul>
 
