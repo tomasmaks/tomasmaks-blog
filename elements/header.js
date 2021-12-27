@@ -9,11 +9,10 @@ document.write(`
 
 <img class="profile-image mb-3 rounded-circle mx-auto" src="assets/images/profile.png" alt="image" >			
 
-<div class="bio mb-3">Hello, my name is Tomas Maksimavicius. I think about myself as generalist. I have some knowledge in programming, writing, startup strategies, e-commerce and I love reading about tech, philosophy and psychology.
-
+<div class="bio mb-3">I'm a solo founder at <a href="https://www.matchingram.com" target="_blank">Matchingram</a>. Matchingram's vision is to become Amazon for matching outfits driven by independent creators.
 <br>
 <br>
-My goal of the next 5 years is to build products that help small businesses and freelancers. Want to join? Send me DM.
+I have many more ideas that could help creators, artists and small businesses. Want to talk about it? Send me DM.
 <br>
 <br>
 </div>
